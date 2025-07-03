@@ -2,7 +2,7 @@
 :root {
 
   --hoockers-green_20: hsl(148, 20%, 38%, 0.2);
-  --pale-spring-bud: hsl(60, 68%, 85%);
+  --pale-spring-bud: hsla(98, 95%, 33%, 0.637);
   --hoockers-green: hsl(148, 20%, 38%);
   --spanish-gray: hsl(0, 0%, 61%);
   --light-gray: hsl(0, 0%, 80%);
