@@ -853,9 +853,9 @@ body {
   .banner-card .card-text { max-width: 30ch; }
 
 
-  .offer .countdown { --fs-2: 4.8rem; }
+  .offer .countdown { --fs-3: 3.2rem; }
 
-  .offer .countdown .time:not(:last-child)::after { margin-inline: 20px; }
+  /* .offer .countdown .time:not(:last-child)::after { margin-inline: 2px; } */
 
 }
 
